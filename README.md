@@ -31,13 +31,13 @@ For download,  You will need a Work or school Microsoft account.<br />
 Plus, This custom visualization is having R package dependencies.<br />
 So, To use this visual, you must install R on your local computer.<br />
 
-Image **PowerBI Error for R Installation.JPEG** shows PowerBI popup if No R Installation is found on your system.<br />
+Image **PowerBI Error for R Installation.JPG** shows PowerBI popup if No R Installation is found on your system.<br />
 
 **(2)** Sample dataset represents Car Performance Metrics like miles per gallon, horsepower, transmission, acceleration, cylinder, displacement, weight, gears, etc.<br />
 
 **(3)** **CustomVisualization_PBIX.pbix** - my powerBI file. Both components mentioned in point1 (correlation plot visualization and R Installation), will be required to see this file. 
 
-**(4)** **Corr Matrix of Car Performance Matrix.jpeg** is screenshot of correlation matrix I have prepared.
+**(4)** **Corr Matrix of Car Performance Matrix.JPG** is screenshot of correlation matrix I have prepared.
 
 Please refer following link for detailed information.<br />
 https://www.mssqltips.com/sqlservertip/5197/correlation-analysis-using-correlation-plot-in-power-bi-desktop/<br />
