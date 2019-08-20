@@ -2,7 +2,7 @@ I have done this exercise to understand :<br />
 - process to use custom visualization in PowerBI desktop<br />
 - correlation Analysis of data features<br />
 
-For this I have used Mr. Siddharth Mehta's article posted on https://www.mssqltips.com<br />
+For this I have referred Mr. Siddharth Mehta's article posted on https://www.mssqltips.com<br />
 Link for the article is mentioned at the end of readme file.
 
 ## Correlation Analysis & Matrix :<br />
