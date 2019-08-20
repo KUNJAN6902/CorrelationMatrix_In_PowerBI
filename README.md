@@ -2,6 +2,9 @@ I have done this exercise to understand :<br />
 - process to use custom visualization in PowerBI desktop<br />
 - correlation Analysis of data features<br />
 
+For this I have used Mr. Siddharth Mehta's article posted on https://www.mssqltips.com<br />
+Link for the article is mentioned at the end of readme file.
+
 ## Correlation Analysis & Matrix :<br />
 Correlation Analysis is a fundamental method of **Exploratory Data Analysis** to find a relationship between different features in a dataset. The degree to which one variable moves in relation to the other is measured by the **correlation coefficient "r"**, which quantifies the strength of the correlation between two variables.<br />
 
